@@ -44,8 +44,6 @@ _A machine learning tool to classify brain MRI scans into tumor categories._
 
 ## 🎯 **Get in Touch**  
 - 📧 Email: bcrook4@uwo.ca  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/bryson-crook-b74874272)  
-- 💻 [GitHub](https://github.com/CrooBrys?tab=repositories)
 
 ---
 
