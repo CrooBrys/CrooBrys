@@ -1,55 +1,52 @@
-# Hi, I'm [Your Name] 👋
-### Developer | Data Scientist | AI Enthusiast
+# Hi there 👋 I'm Bryson Crook!  
+### 🚀 Software Engineer Pre-Graduate | University of Western Ontario | Class of 2025  
 
-Welcome to my GitHub profile! Here you’ll find some of my projects, contributions, and tech highlights.
-
----
-
-## 🔭 Currently working on:
-- Brain tumor classification project using deep learning
-- Enhancing model accuracy with data augmentation
-- Fine-tuning models for better performance in real-world applications
-
-## 🌱 I’m learning:
-- Advanced neural network architectures
-- Reinforcement learning and its applications
-- Deployment strategies for AI models in production
-
-## 🛠️ Languages & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF5733?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Welcome to my corner of GitHub! Here's a snapshot of who I am and what I do:  
 
 ---
 
-## 🚀 My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+## 🛠️ **My Toolkit**
+### **Languages:**  
+- Java | Python | JavaScript | SQL/MySQL | C | HTML/CSS  
+
+### **Frameworks & Utilities:**  
+- AWS | Node.js | React | Express | Docker | Git/GitHub  
 
 ---
 
-## 💼 Find Me On:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Blog](https://yourwebsite.com)
+## 🌱 **My Goals**
+- Gain hands-on experience in software development.
+- Dive into cutting-edge projects in artificial intelligence and cloud computing.
+- Continuously learn and adapt to new technologies.
+- Build strong professional connections.
+- Master problem-solving while creating impactful solutions.
 
 ---
 
-## 📄 Featured Projects:
-### [Brain Tumor Classification](https://github.com/yourusername/brain-tumor-classification)
-- Description: A deep learning project to detect different types of brain tumors using CNNs.
-- Tech: TensorFlow, Keras, Python, OpenCV
+## 🚧 **Projects**  
+### **RoboNav - Mobile App for Autonomous Robot Control**  
+_A mobile application to manage autonomous robots seamlessly._
+- **Technologies:** MySQL | Node.js | Express.js | Java | XML | Flask | JWT Authentication  
+- Integrated real-time robot task management and data logging with MySQL.
+- Developed an Android app for task assignment, tracking robot locations, and live data visualization.  
+- Created RESTful APIs for backend communication with a Flask-based system.  
+- Enhanced synchronization with asynchronous API calls for real-time updates.  
 
-### [Data Augmentation for Imbalanced Datasets](https://github.com/yourusername/data-augmentation)
-- Description: Balancing class distributions with image augmentation techniques to enhance model training.
-- Tech: Python, TensorFlow, Keras, OpenCV
+### **NeuroScanAI - Deep Learning for Brain Tumor Classification**  
+_A machine learning tool to classify brain MRI scans into tumor categories._  
+- **Technologies:** ResNet50 | VGG16 | EfficientNetB0 | InceptionV3 | Flask | Google Cloud Run  
+- Built an end-to-end pipeline to train, evaluate, and deploy CNN architectures.  
+- Optimized class balance and accuracy using Stratified K-Fold cross-validation.  
+- Deployed a live prediction tool with a containerized Flask app hosted on Google Cloud Run.  
+- Visualized key metrics including confusion matrices and ROC curves.
 
 ---
 
-## 📫 How to reach me:
-- **Email**: your.email@example.com
-- **LinkedIn**: [yourprofile](https://www.linkedin.com/in/yourprofile)
+## 🎯 **Get in Touch**  
+- 📧 Email: bcrook4@uwo.ca  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bryson-crook-b74874272)  
+- 💻 [GitHub](https://github.com/CrooBrys?tab=repositories)
+
+---
+
+📘 _Let’s build something amazing together!_  
