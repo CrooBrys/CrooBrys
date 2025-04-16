@@ -10,7 +10,7 @@ Welcome to my corner of GitHub! Here's a snapshot of who I am and what I do:
 - Java | Python | JavaScript | SQL/MySQL | C | HTML/CSS  
 
 ### **Frameworks & Utilities:**  
-- AWS | Node.js | React | Express | Docker | Git/GitHub  
+- GCP | Node.js | React | Express | Docker | Git/GitHub  
 
 ---
 
